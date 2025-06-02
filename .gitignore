@@ -1,0 +1,3 @@
+*.brn
+env
+*pycache*

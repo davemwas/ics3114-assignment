@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1">
+
+    <category>
+        <pattern>PROGRAMS DOES JKUAT OFFER</pattern>
+        <template>JKUAT offers diploma, undergraduate, master's, and PhD programs in engineering, technology, agriculture, health sciences, and business.</template>
+    </category>
+
+    <category>
+        <pattern>APPLY COURSE JKUAT</pattern>
+        <template>You can apply online via the JKUAT admissions portal: https://admission.jkuat.ac.ke.</template>
+    </category>
+
+    <category>
+        <pattern>DEADLINE APPLICATIONS</pattern>
+        <template>Applications are accepted throughout the year, but deadlines vary by intake. Check the website for current intake deadlines.</template>
+    </category>
+
+    <category>
+        <pattern>THERE JANUARY OR SEPTEMBER INTAKES</pattern>
+        <template>Yes, JKUAT offers multiple intakes including January, May, and September.</template>
+    </category>
+
+    <category>
+        <pattern>NEED SIT ENTRANCE EXAM</pattern>
+        <template>For most undergraduate programs, KCSE results are sufficient. Some postgraduate programs may require interviews or proposals.</template>
+    </category>
+
+    <category>
+        <pattern>KCSE MINIMUM ENTRY REQUIREMENTS</pattern>
+        <template>A mean grade of C+ and specific subject requirements depending on the program.</template>
+    </category>
+
+    <category>
+        <pattern>INTERNATIONAL STUDENTS APPLY</pattern>
+        <template>Yes, JKUAT accepts international students. Additional documentation like passport copies and equivalency certificates may be needed.</template>
+    </category>
+
+    <category>
+        <pattern>WHERE MAIN CAMPUS LOCATED</pattern>
+        <template>The main campus is located in Juja, along Thika Superhighway, about 36 km from Nairobi.</template>
+    </category>
+
+    <category>
+        <pattern>TUITION FEE UNDERGRADUATE PROGRAMS</pattern>
+        <template>Tuition fees vary by program. For example, Engineering programs are around KES 180,000 per year.</template>
+    </category>
+
+    <category>
+        <pattern>THERE SCHOLARSHIPS AVAILABLE</pattern>
+        <template>Yes, JKUAT offers limited scholarships. You can also apply for HELB loans or county bursaries.</template>
+    </category>
+
+    <category>
+        <pattern>APPLY HELB JKUAT</pattern>
+        <template>Visit https://www.helb.co.ke to apply. You will need admission details and supporting documents.</template>
+    </category>
+
+    <category>
+        <pattern>PAY FEES INSTALLMENTS</pattern>
+        <template>Yes, JKUAT allows fee payment in approved installments, especially for self-sponsored students.</template>
+    </category>
+
+    <category>
+        <pattern>DOES JKUAT PROVIDE ACCOMMODATION</pattern>
+        <template>Yes, the main campus has hostels, but priority is given to first-year and female students.</template>
+    </category>
+
+    <category>
+        <pattern>MUCH HOSTEL FEES</pattern>
+        <template>Hostel fees range between KES 5,000 to 10,000 per semester depending on the hostel.</template>
+    </category>
+
+    <category>
+        <pattern>THERE PRIVATE HOSTELS NEAR CAMPUS</pattern>
+        <template>Yes, there are many private hostels near JKUAT Juja campus offering varying levels of comfort and price.</template>
+    </category>
+
+    <category>
+        <pattern>SPORTS FACILITIES AVAILABLE</pattern>
+        <template>JKUAT offers football fields, a gym, basketball courts, and a swimming pool.</template>
+    </category>
+
+    <category>
+        <pattern>LONG DEGREE PROGRAM JKUAT</pattern>
+        <template>Most undergraduate programs run for 4 years, while diploma courses take 2–3 years.</template>
+    </category>
+
+    <category>
+        <pattern>EXAMS CONDUCTED</pattern>
+        <template>Exams are administered at the end of every semester. Continuous assessment tests (CATs) also count toward your final grade.</template>
+    </category>
+
+    <category>
+        <pattern>DEFER STUDIES</pattern>
+        <template>Yes, deferment is allowed under valid circumstances. You must apply formally to the Registrar of Academic Affairs.</template>
+    </category>
+
+    <category>
+        <pattern>ACCESS STUDENT PORTAL</pattern>
+        <template>Visit https://portal.jkuat.ac.ke and log in with your registration number and password.</template>
+    </category>
+
+    <category>
+        <pattern>IF FORGOT STUDENT PORTAL PASSWORD</pattern>
+        <template>Use the 'Forgot Password' link on the portal to reset your login credentials.</template>
+    </category>
+
+    <category>
+        <pattern>THERE HELPDESK ISSUES</pattern>
+        <template>Yes, you can contact the ICT support team at ictsupport@jkuat.ac.ke.</template>
+    </category>
+
+    <category>
+        <pattern>GET ADMISSION LETTER</pattern>
+        <template>Once admitted, download your admission letter from https://admission.jkuat.ac.ke.</template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>Hello! I'm Amanda, your JKUAT assistant. Ask me anything about admissions, fees, hostels, or programs.</template>
+    </category>
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hi there! I'm here to help you with questions about JKUAT.</template>
+    </category>
+
+    <category>
+        <pattern>THANK</pattern>
+        <template>You're welcome! Feel free to ask more questions.</template>
+    </category>
+
+    <category>
+        <pattern>WHO</pattern>
+        <template>I'm Amanda, a chatbot created to answer your JKUAT-related questions.</template>
+    </category>
+
+    <category>
+        <pattern>SCHOOL FEES</pattern>
+        <template>Tuition fees vary by program. Engineering is around KES 180,000 per year.</template>
+    </category>
+    <category>
+        <pattern>UNIVERSITY FEES</pattern>
+        <template>Tuition fees vary by program. Engineering is around KES 180,000 per year.</template>
+    </category>
+
+    <category>
+        <pattern>ACCOMMODATION</pattern>
+        <template>Yes, JKUAT provides on-campus hostels. Fees range between KES 5,000 to 10,000 per semester.</template>
+    </category>
+
+    <category>
+        <pattern>DORM</pattern>
+        <template>Yes, JKUAT hostels are available to students. Priority is given to first-year and female students.</template>
+    </category>
+
+
+    <category>
+        <pattern>ADMISSION</pattern>
+        <template>You can apply online via the JKUAT admissions portal: https://admission.jkuat.ac.ke.</template>
+    </category>
+
+    <category>
+        <pattern>REGISTRATION</pattern>
+        <template>Admission to JKUAT is done through the admissions portal. Please visit https://admission.jkuat.ac.ke.</template>
+    </category>
+
+    <category>
+        <pattern>DEGREES</pattern>
+        <template>JKUAT offers diplomas, undergraduate, master's, and PhD programs across various fields.</template>
+    </category>
+
+    <category>
+        <pattern>PROGRAM OPTIONS</pattern>
+        <template>We offer programs in engineering, IT, health sciences, business, and agriculture.</template>
+    </category>
+    
+    <category>
+        <pattern>TUITION</pattern>
+        <template>Tuition fees vary by program. Engineering is around KES 180,000 per year.</template>
+    </category>
+
+    <category>
+        <pattern>* TUITION *</pattern>
+        <template>Tuition fees vary by program. Engineering is around KES 180,000 per year.</template>
+    </category>
+
+    <category>
+        <pattern>* ADMISSION *</pattern>
+        <template>You can apply online via the JKUAT admissions portal: https://admission.jkuat.ac.ke</template>
+    </category>
+
+    <category>
+        <pattern>* ACCOMMODATION *</pattern>
+        <template>Yes, JKUAT provides hostels. Fees range between KES 5,000 and 10,000 per semester.</template>
+    </category>
+
+    <category>
+        <pattern>* PROGRAM *</pattern>
+        <template>JKUAT offers diploma, undergraduate, master's, and PhD programs in engineering, business, IT, agriculture, and health sciences.</template>
+    </category>
+
+    
+    
+</aiml>

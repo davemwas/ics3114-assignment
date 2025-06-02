@@ -1,0 +1,7 @@
+click==8.2.1
+joblib==1.5.1
+nltk==3.9.1
+python-aiml==0.9.3
+regex==2024.11.6
+setuptools==80.9.0
+tqdm==4.67.1
